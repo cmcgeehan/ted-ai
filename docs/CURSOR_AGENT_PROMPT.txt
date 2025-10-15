@@ -1,0 +1,30 @@
+===============================================
+  COPY THIS PROMPT AND PASTE IN CURSOR
+===============================================
+
+Hi Cursor Agent!
+
+I need your help testing our ZoomInfo MCP integration. Please follow the instructions in:
+
+📄 docs/CURSOR_TESTING_GUIDE.md
+
+This guide has 7 specific tasks to test the ZoomInfo connector and understand what data we can access.
+
+Your goal:
+1. Test ZoomInfo MCP searches for real estate company contacts
+2. Document the exact data structure we receive
+3. Fill out docs/ZOOMINFO_TEST_RESULTS.md with your findings
+
+Focus on:
+- Finding executives at Greystar (real estate company)
+- Understanding what contact/company data fields are available
+- Documenting JSON structures
+- Identifying rate limits and quotas
+
+This will help us build the REST API integration correctly.
+
+Please start with Task 1 (verifying connection) and work through all 7 tasks systematically.
+
+Thanks!
+
+===============================================
